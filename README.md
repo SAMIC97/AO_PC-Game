@@ -50,10 +50,10 @@ Aquí hay algunas capturas de pantalla del juego en acción:
 <img src="screenshots/Sam_3D_Front.jpg" alt="Character 3D view front" width="400">
 
 ### Escenario (Bosque de Colores)
-<img src="screenshots/BosqueDeColores_3D.jpg" alt="Colorful Forest" width="400">
+<img src="screenshots/BosqueDeColores_3D.png" alt="Colorful Forest" width="400">
 
 ### HUD
-<img src="screenshots/AO_HUD.jpg" alt="HUD" width="400">
+<img src="screenshots/AO_HUD.png" alt="HUD" width="400">
 
 ## Video Demo
 
