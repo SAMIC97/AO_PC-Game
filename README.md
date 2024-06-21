@@ -1,7 +1,7 @@
 # Demo Juego PC: Una Aventura en la Oscuridad (AO)
 
-Aventura en la Oscuridad es un juego demo de PC en el que el personaje prinicipal, Sam, usando su imagación lograra explarar afrontar su mayor miedo, la oscuridad.
-El juego fue desarrollado como proyecto de graduación para explorar la mecánica de juego y diseño en un entorno virtual desafiante.
+Una Aventura en la Oscuridad es un juego demo de PC en el que el personaje prinicipal, Sam, usando su imagación lograra explarar afrontar su mayor miedo, la oscuridad.
+Este juego demo fue desarrollado como proyecto de graduación para evaluar los conocimientos y habilidades de los estudiantes de la carrera de Ingeniería en Tecnología Interactiva en Animación Digital (ITIAD).
 
 ## Descripción
 
