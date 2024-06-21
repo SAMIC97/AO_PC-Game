@@ -61,7 +61,7 @@ Aquí hay algunas capturas de pantalla del juego en acción:
 
 ## Video Demo
 
-Consulta el video demo del juego en YouTube para ver el juego en acción: [Ver el Demo]([https://youtu.be/jf2sO-thhhg)
+Consulta el video demo del juego en YouTube para ver el juego en acción: [Ver el Demo](https://youtu.be/jf2sO-thhhg)
 
 ## Licencia
 
