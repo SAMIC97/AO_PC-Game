@@ -46,21 +46,22 @@ El desarrollo de este juego debía cumplir con los siguientes requisitos estable
 
 Aquí hay algunas capturas de pantalla del juego en acción:
 
-### Exploración del Bosque
+### Personaje (Sam) 2D / 3D
+<img src="screenshots/exploracion_bosque.jpg" alt="Exploración del Bosque" width="400">
 <img src="screenshots/exploracion_bosque.jpg" alt="Exploración del Bosque" width="400">
 
-### Resolución de Puzzles
+### Enemigos
 <img src="screenshots/resolucion_puzzles.jpg" alt="Resolución de Puzzles" width="400">
 
-### Historia Envolvente
+### Escenario (Bosque de Colores)
 <img src="screenshots/historia_envolvente.jpg" alt="Historia Envolvente" width="400">
 
-### Gráficos Detallados
+### HUD
 <img src="screenshots/graficos_detallados.jpg" alt="Gráficos Detallados" width="400">
 
 ## Video Demo
 
-Consulta el video demo del juego en YouTube para ver el juego en acción: [Ver el Demo](https://www.youtube.com/your-video-link)
+Consulta el video demo del juego en YouTube para ver el juego en acción: [Ver el Demo]([https://youtu.be/jf2sO-thhhg)
 
 ## Licencia
 
