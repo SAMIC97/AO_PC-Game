@@ -62,7 +62,3 @@ Consulta el video demo del juego en YouTube para ver el juego en acción: [Ver e
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT - vea el archivo [LICENSE](LICENSE) para más detalles.
-
-## Disclaimer
-
-Este juego fue desarrollado para propósitos educativos y de demostración. Todos los derechos de los personajes, imágenes y otros contenidos pertenecen a sus respectivos dueños.
