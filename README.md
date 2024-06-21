@@ -46,18 +46,14 @@ El desarrollo de este juego debía cumplir con los siguientes requisitos estable
 
 Aquí hay algunas capturas de pantalla del juego en acción:
 
-### Personaje (Sam) 2D / 3D
-<img src="screenshots/exploracion_bosque.jpg" alt="Exploración del Bosque" width="400">
-<img src="screenshots/exploracion_bosque.jpg" alt="Exploración del Bosque" width="400">
-
-### Enemigos
-<img src="screenshots/resolucion_puzzles.jpg" alt="Resolución de Puzzles" width="400">
+### Personaje 3D (Sam)
+<img src="screenshots/Sam_3D_Front.jpg" alt="Character 3D view front" width="400">
 
 ### Escenario (Bosque de Colores)
-<img src="screenshots/historia_envolvente.jpg" alt="Historia Envolvente" width="400">
+<img src="screenshots/BosqueDeColores_3D.jpg" alt="Colorful Forest" width="400">
 
 ### HUD
-<img src="screenshots/graficos_detallados.jpg" alt="Gráficos Detallados" width="400">
+<img src="screenshots/AO_HUD.jpg" alt="HUD" width="400">
 
 ## Video Demo
 
