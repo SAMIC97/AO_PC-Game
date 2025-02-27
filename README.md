@@ -27,14 +27,14 @@ The development of this game had to meet the following requirements established 
 
 - **Script/GDD (Game Design Document)**
 - **Character Design**:
-- 2D (Turnaround)
-- 3D (Modeling, rigging)
+  - 2D (Turnaround)
+  - 3D (Modeling, rigging)
 - **Prop and Environment Design and Modeling**:
-- 2D design
-- 3D modeling and texturing
+  - 2D design
+  - 3D modeling and texturing
 - **Storyboard and Animatic**
 - **Integration in Unity**:
-- The character must interact with enemies, props, and the environment
+  - The character must interact with enemies, props, and the environment
 - **Integration of Particles, Effects, and Sounds**
 
 ## Game Images
